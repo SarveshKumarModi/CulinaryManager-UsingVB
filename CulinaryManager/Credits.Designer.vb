@@ -44,7 +44,7 @@ Partial Class Credits
         Me.Label1.Name = "Label1"
         Me.Label1.Size = New System.Drawing.Size(274, 26)
         Me.Label1.TabIndex = 0
-        Me.Label1.Text = "Ram Sharvesh - 15YASB7092"
+        Me.Label1.Text = "00001"
         '
         'Label2
         '
@@ -55,7 +55,7 @@ Partial Class Credits
         Me.Label2.Name = "Label2"
         Me.Label2.Size = New System.Drawing.Size(288, 26)
         Me.Label2.TabIndex = 1
-        Me.Label2.Text = "Suru Shahshank - 15YASB7122"
+        Me.Label2.Text = "00002"
         '
         'Label3
         '
@@ -66,7 +66,7 @@ Partial Class Credits
         Me.Label3.Name = "Label3"
         Me.Label3.Size = New System.Drawing.Size(259, 26)
         Me.Label3.TabIndex = 2
-        Me.Label3.Text = "Ravi Sharma - 15YASB7097"
+        Me.Label3.Text = "003"
         '
         'Button1
         '
